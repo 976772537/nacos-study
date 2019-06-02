@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.boot:nacos-config-spring-boot-actuator:${nacos-config-spring-boot.version}">
+    <CLASSES>
+      <root url="jar://D:/apache-maven-3.6.0/respository/com/alibaba/boot/nacos-config-spring-boot-actuator/${nacos-config-spring-boot.version}/nacos-config-spring-boot-actuator-${nacos-config-spring-boot.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/apache-maven-3.6.0/respository/com/alibaba/boot/nacos-config-spring-boot-actuator/${nacos-config-spring-boot.version}/nacos-config-spring-boot-actuator-${nacos-config-spring-boot.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/apache-maven-3.6.0/respository/com/alibaba/boot/nacos-config-spring-boot-actuator/${nacos-config-spring-boot.version}/nacos-config-spring-boot-actuator-${nacos-config-spring-boot.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
